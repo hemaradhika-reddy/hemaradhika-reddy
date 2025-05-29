@@ -1,6 +1,6 @@
 👋 Hi, I’m @hemaradhika-reddy  
 - 👀 I’m interested in building AI-powered solutions and scalable software systems.  
-- 🌱 I’m currently pursuing final year B.Tech.  
+- 🌱 A CSE AI Grad@Amrita Vishwa Vidyapeetham Coimbatore
 - 💞️ I’m looking to collaborate on impactful AI/ML & Software projects and open-source initiatives.  
 - 📫 How to reach me: hemaradhikareddy@gmail.com 
 - 😄 She/Her  
