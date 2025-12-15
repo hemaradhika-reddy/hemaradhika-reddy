@@ -1,7 +1,8 @@
 # Hi, I’m @hemaradhika-reddy 👋
 
-I’m **Hema Radhika**, a  AI graduate from Amrita Vishwa Vidyapeetham.  
-My interests lie in **AI, ML, DL**, and **Quantitative Trading / Data Analysis**.  
+I’m **Hema Radhika**, a CSE AI graduate from Amrita Vishwa Vidyapeetham, currently working as a **Software Engineer**.  
+My interests lie in **AI, ML, DL**, and **Quantitative Trading / Quant Research.  
+I have experience in **research projects in AI, ML, and Deep Learning**.
 
 ---
 
@@ -35,5 +36,35 @@ My interests lie in **AI, ML, DL**, and **Quantitative Trading / Data Analysis**
 
 ---
 
+### 🔬 Research & Projects
+
+- **AI/ML/DL Research Projects** – Experience in building deep learning models for computer vision and NLP tasks.  
+- **Quantitative Trading Projects** – Developed trading strategies using Python, Pandas, and backtesting frameworks.  
+- **Open-Source Contributions** – Contributed to AI/ML projects and libraries on GitHub.
+
+---
+
+### 📊 GitHub Stats
+
+![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaradhika-reddy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy&layout=compact&theme=radical)
+
+---
+
+### ✨ Currently
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=FF6F61&center=true&vCenter=true&width=600&lines=Learning+AI+%26+ML...;Exploring+Quant+Trading...;Building+Innovative+Projects...)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HemaRadhika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemaradhika-reddy)  
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemaradhikareddy@gmail.com)  
+![Visitor Count](https://profile-counter.glitch.me/hemaradhika-reddy/count.svg)
+
+---
+
 ⚡ Fun fact: I can spend hours debugging code but still struggle to decide what to eat for lunch 😅
+
 
