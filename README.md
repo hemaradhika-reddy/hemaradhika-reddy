@@ -1,7 +1,7 @@
 # Hi, I’m @hemaradhika-reddy 👋
 
 I’m **Hema Radhika**, a CSE AI graduate from Amrita Vishwa Vidyapeetham, currently working as a **Software Engineer**.  
-My interests lie in **AI, ML, DL**, and **Quantitative Trading / Quant Research.  
+My interests lie in **AI, ML, DL**, and Quantitative Trading / Quant Research.  
 I have experience in **research projects in AI, ML, and Deep Learning**.
 
 ---
