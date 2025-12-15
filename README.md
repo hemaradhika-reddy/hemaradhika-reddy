@@ -1,8 +1,8 @@
 # Hi, I’m @hemaradhika-reddy 👋
 
 I’m **Hema Radhika**, a CSE AI graduate from Amrita Vishwa Vidyapeetham, currently working as a **Software Engineer**.  
-My interests lie in **AI, ML, DL**, and Quantitative Trading / Quant Research.  
-I have experience in **research projects in AI, ML, and Deep Learning**.
+I specialize in **AI, ML, DL**, with interests in **Quantitative Trading & Research**.  
+I have experience in **research projects in AI, ML, and Deep Learning**, focusing on innovative and practical solutions.
 
 ---
 
@@ -38,16 +38,16 @@ I have experience in **research projects in AI, ML, and Deep Learning**.
 
 ### 🔬 Research & Projects
 
-- **AI/ML/DL Research Projects** – Experience in building deep learning models for computer vision and NLP tasks.  
-- **Quantitative Trading Projects** – Developed trading strategies using Python, Pandas, and backtesting frameworks.  
-- **Open-Source Contributions** – Contributed to AI/ML projects and libraries on GitHub.
+- **AI/ML/DL Research** – Built deep learning models for computer vision & NLP tasks.  
+- **Quantitative Trading** – Developed trading strategies using Python, Pandas, and backtesting frameworks.  
+- **Open-Source Contributions** – Contributed to AI/ML libraries and projects on GitHub.
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaradhika-reddy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy&layout=compact&theme=radical)
 
 ---
 
@@ -62,9 +62,6 @@ I have experience in **research projects in AI, ML, and Deep Learning**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HemaRadhika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemaradhika-reddy)  
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemaradhikareddy@gmail.com)  
 
-
 ---
 
 ⚡ Fun fact: I can spend hours debugging code but still struggle to decide what to eat for lunch 😅
-
-
