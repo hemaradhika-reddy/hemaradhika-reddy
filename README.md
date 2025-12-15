@@ -61,7 +61,7 @@ I have experience in **research projects in AI, ML, and Deep Learning**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HemaRadhika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemaradhika-reddy)  
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemaradhikareddy@gmail.com)  
-![Visitor Count](https://profile-counter.glitch.me/hemaradhika-reddy/count.svg)
+
 
 ---
 
