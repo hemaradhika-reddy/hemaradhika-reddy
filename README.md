@@ -5,11 +5,11 @@
 I’m **Hema Radhika**, an AI graduate from Amrita Vishwa Vidyapeetham, Coimbatore.
 
 From my **first year**, I’ve focused on **building with AI — not just learning it**.
-I enjoy creating **real-world impactful products** using **AI, ML, and Deep Learning**.
+I love creating **real-world impactful products** using **AI, ML, and Deep Learning**.
 
 ---
 
-## 🧠 Core Focus Areas
+## 🧠My Key Domains
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 🧠 AI Systems (Agents, Transformers, RAG)
@@ -116,7 +116,7 @@ I enjoy creating **real-world impactful products** using **AI, ML, and Deep Lear
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hemaradhika-reddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
----
+
 ## ⚡ Fun Fact
 
 I can spend hours debugging code but still struggle to decide what to eat for lunch 😅
