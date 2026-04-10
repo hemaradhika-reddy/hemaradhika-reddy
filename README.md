@@ -32,43 +32,30 @@ I enjoy creating **real-world impactful products** using **AI, ML, and Deep Lear
 
 <p align="center">
 
-### 👨‍💻 Languages
+<p align="center"><b>👨‍💻 Languages</b></p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,matlab" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,matlab" />
+<p align="center"><b>🤖 AI / ML</b></p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" /><br/><br/>
 
-### 🤖 AI / ML
+<p align="center"><b>🗄️ Databases</b></p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br/> <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+<p align="center"><b>☁️ Cloud & DevOps</b></p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" /><br/><br/>
 
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
-
-### 🛠️ Tools
-
+<p align="center"><b>🛠️ Tools</b></p>
 <img src="https://skillicons.dev/icons?i=git,bash" />
 
 </p>
 
----
 
 
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hemaradhika-reddy&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemaradhika-reddy&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
