@@ -1,67 +1,74 @@
-# Hi, I’m @hemaradhika-reddy 👋
+# 👋 Hi, I’m @hemaradhika-reddy
 
-I’m **Hema Radhika**, a CSE AI graduate from Amrita Vishwa Vidyapeetham, currently working as a **Software Engineer**.  
-I specialize in **AI, ML, DL**, with interests in **Quantitative Trading & Research**.  
-I have experience in **research projects in AI, ML, and Deep Learning**, focusing on innovative and practical solutions.
+🚀 **Software Engineer | AI Builder | Researcher**
+
+I’m **Hema Radhika**, a CSE (AI) graduate from Amrita Vishwa Vidyapeetham.
+
+From my **first year**, I’ve been focused on **building with AI** — not just learning it.
+I’m passionate about creating **real-world impactful products** using **AI, ML, and Deep Learning**.
 
 ---
 
-### 💻 Tech Stack & Interests
+### 🧠 What I Focus On
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 📊 Quantitative Trading & Research
+* 🧩 Problem Solving & Product Thinking
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+---
 
-![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML-4B0082?style=for-the-badge)
-![DL](https://img.shields.io/badge/DL-8A2BE2?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00CED1?style=for-the-badge)
+### 🔬 Research & Work
+
+* 📌 Published papers in **Scopus-indexed international conferences**
+* 🧠 Built deep learning models for **CV & NLP applications**
+* 📈 Developed **quantitative trading strategies** using Python
+* 🌍 Contributed to **AI/ML projects & open-source**
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
-![Quant](https://img.shields.io/badge/Quantitative_Trading-FF4500?style=for-the-badge)
 
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-### 🔬 Research & Projects
-
-- **AI/ML/DL Research** – Built deep learning models for computer vision & NLP tasks.  
-- **Quantitative Trading** – Developed trading strategies using Python, Pandas, and backtesting frameworks.  
-- **Open-Source Contributions** – Contributed to AI/ML libraries and projects on GitHub.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaradhika-reddy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy&layout=compact&theme=radical)
+![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaradhika-reddy\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy\&layout=compact\&theme=radical)
 
 ---
 
-### ✨ Currently
+### ⚡ Currently
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=FF6F61&center=true&vCenter=true&width=600&lines=Learning+AI+%26+ML...;Exploring+Quant+Trading...;Building+Innovative+Projects...)
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HemaRadhika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemaradhika-reddy)  
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemaradhikareddy@gmail.com)  
+🚧 Building AI-powered products
+📚 Exploring Quantitative Trading
+🧠 Learning advanced AI systems
 
 ---
 
-⚡ Fun fact: I can spend hours debugging code but still struggle to decide what to eat for lunch 😅
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HemaRadhika-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/hemaradhika-reddy)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hemaradhikareddy@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+I can spend hours debugging code but still struggle to decide what to eat for lunch 😅
