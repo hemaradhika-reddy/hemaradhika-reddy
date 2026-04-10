@@ -2,10 +2,6 @@
 
 🚀 **Software Engineer | AI Builder | Researcher**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemaradhika-reddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
 I’m **Hema Radhika**, an AI graduate from Amrita Vishwa Vidyapeetham, Coimbatore.
 
 From my **first year**, I’ve been focused on **building with AI — not just learning it**.
@@ -150,6 +146,10 @@ I love working on **real-world impactful products** using **AI, ML, and Deep Lea
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hemaradhikareddy@gmail.com)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemaradhika-reddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ### ⚡ Fun Fact
 
