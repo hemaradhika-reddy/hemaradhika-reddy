@@ -85,14 +85,6 @@ I love creating **real-world impactful products** using **AI, ML, and Deep Learn
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemaradhika-reddy&theme=tokyo-night" />
-</p>
-
----
-
 ## ⚡ Currently
 
 * 🚧 Building AI-powered products
