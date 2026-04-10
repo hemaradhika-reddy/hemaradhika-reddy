@@ -30,25 +30,50 @@ I enjoy creating **real-world impactful products** using **AI, ML, and Deep Lear
 
 ## 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<p align="center"><b>👨‍💻 Languages</b></p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,matlab" /><br/><br/>
+### 👨‍💻 Languages
 
-<p align="center"><b>🤖 AI / ML</b></p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" /><br/><br/>
+<div>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,matlab" />
+</div>
 
-<p align="center"><b>🗄️ Databases</b></p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+<br/>
 
-<p align="center"><b>☁️ Cloud & DevOps</b></p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" /><br/><br/>
+### 🤖 AI / ML
 
-<p align="center"><b>🛠️ Tools</b></p>
-<img src="https://skillicons.dev/icons?i=git,bash" />
+<div>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</div>
 
-</p>
+<br/>
+
+### 🗄️ Databases
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</div>
+
+<br/>
+
+### ☁️ Cloud & DevOps
+
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
+</div>
+
+<br/>
+
+### 🛠️ Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,bash" />
+</div>
+
+</div>
 
 
 
