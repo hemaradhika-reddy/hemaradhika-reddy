@@ -2,9 +2,13 @@
 
 🚀 **Software Engineer | AI Builder | Researcher**
 
-I’m **Hema Radhika**, a AI graduate from Amrita Vishwa Vidyapeetham, Coimbatore.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemaradhika-reddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
-From my **first year**, I’ve been focused on **building with AI**  not just learning it.
+I’m **Hema Radhika**, an AI graduate from Amrita Vishwa Vidyapeetham, Coimbatore.
+
+From my **first year**, I’ve been focused on **building with AI — not just learning it**.
 I love working on **real-world impactful products** using **AI, ML, and Deep Learning**.
 
 ---
@@ -15,7 +19,7 @@ I love working on **real-world impactful products** using **AI, ML, and Deep Lea
 * 🧠 AI Systems (Agents, Transformers, RAG)
 * 👁️ Computer Vision
 * 🔐 Secure AI
-* 💻 Programming (Java , Python)
+* 💻 Programming (Java, Python)
 
 ---
 
@@ -106,13 +110,29 @@ I love working on **real-world impactful products** using **AI, ML, and Deep Lea
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemaradhika-reddy&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hemaradhika-reddy&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemaradhika-reddy&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hemaradhika-reddy&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemaradhika-reddy&theme=tokyo-night" />
+</p>
 
 ---
 
