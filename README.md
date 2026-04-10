@@ -5,7 +5,7 @@
 I’m **Hema Radhika**, a AI graduate from Amrita Vishwa Vidyapeetham, Coimbatore.
 
 From my **first year**, I’ve been focused on **building with AI**  not just learning it.
-I’m love working on **real-world impactful products** using **AI, ML, and Deep Learning**.
+I love working on **real-world impactful products** using **AI, ML, and Deep Learning**.
 
 ---
 
