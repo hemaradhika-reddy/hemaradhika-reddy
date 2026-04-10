@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | AI Builder | Researcher**
 
-I’m **Hema Radhika**, a CSE (AI) graduate from Amrita Vishwa Vidyapeetham.
+I’m **Hema Radhika**, a AI graduate from Amrita Vishwa Vidyapeetham.
 
 From my **first year**, I’ve been focused on **building with AI** — not just learning it.
 I’m passionate about creating **real-world impactful products** using **AI, ML, and Deep Learning**.
