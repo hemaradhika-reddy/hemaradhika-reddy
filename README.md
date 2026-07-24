@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @hemaradhika-reddy
 
-🚀 **Software Engineer | AI Builder | Researcher**
 
 I’m **Hema Radhika**, an AI graduate from Amrita Vishwa Vidyapeetham, Coimbatore.
 
